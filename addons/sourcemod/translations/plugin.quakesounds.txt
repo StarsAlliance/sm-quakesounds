@@ -7,6 +7,7 @@
 		"de"		"{1} Kopfschuss"
 		"fr"		"{1} aime les grosses tГЄtes !!"
 		"pt"		"{1} conseguiu um Tiro na CabeГ§a"
+		"ru"		"{1} В голову"
 	}
 	"headshot 1"
 	{
@@ -15,6 +16,7 @@
 		"de"		"{1} Kopfschuss"
 		"fr"		"{1} aime les grosses tГЄtes !!"
 		"pt"		"{1} conseguiu um Tiro na CabeГ§a"
+		"ru"		"{1} В голову"
 	}
 	"headshot 3"
 	{
@@ -23,6 +25,7 @@
 		"de"		"{1} Hattrick"
 		"fr"		"{1} Tour du chapeau"
 		"pt"		"{1} tem Habilidade com CabeГ§as"
+		"ru"		"{1} Мастер Безумия"
 	}
 	"headshot 5"
 	{
@@ -31,6 +34,7 @@
 		"de"		"{1} Kopfj?сger"
 		"fr"		"{1} Chasseur de TГЄte"
 		"pt"		"{1} CaГ§ador de CabeГ§as"
+		"ru"		"{1} Точность"
 	}
 	"killsound 4"
 	{
@@ -39,6 +43,7 @@
 		"de"		"{1} dominiert"
 		"fr"		"{1} maitrise grave !!"
 		"pt"		"{1} estГЎ Dominando!"
+		"ru"		"{1} Доминирует!"
 	}
 	"killsound 6"
 	{
@@ -47,6 +52,7 @@
 		"de"		"{1} randaliert"
 		"fr"		"{1} dГ©chire tout !!"
 		"pt"		"{1} estГЎ Violento!"
+		"ru"		"{1} Нереален!"
 	}
 	"killsound 8"
 	{
@@ -55,6 +61,7 @@
 		"de"		"{1} ist auf einem Amoklauf"
 		"fr"		"{1} est bien le meilleur !!"
 		"pt"		"{1} estГЎ se Divertindo!"
+		"ru"		"{1} Великолепен!"
 	}
 	"killsound 10"
 	{
@@ -63,6 +70,7 @@
 		"de"		"{1} hat einen Monster Kill"
 		"fr"		"{1} invente des frags !!"
 		"pt"		"{1} estГЎ numa MatanГ§a Monstruosa!"
+		"ru"		"{1} Монстр!"
 	}
 	"killsound 14"
 	{
@@ -71,6 +79,7 @@
 		"de"		"{1} ist nicht aufzuhalten"
 		"fr"		"{1} est intenable !!"
 		"pt"		"{1} nГЈo PГЃRA!!"
+		"ru"		"{1} Неудержим!!"
 	}
 	"killsound 16"
 	{
@@ -79,6 +88,7 @@
 		"de"		"{1} Ultrakill"
 		"fr"		"{1} va tous les dГ©gouter !!"
 		"pt"		"{1} Г© um Assassino Profissional!"
+		"ru"		"{1} Ас убийств!"
 	}
 	"killsound 18"
 	{
@@ -87,6 +97,7 @@
 		"de"		"{1} gleicht einem Gott"
 		"fr"		"{1} ,Dieu est sur terre !!"
 		"pt"		"{1} Г© como um DEUS!"
+		"ru"		"{1} Божественен!"
 	}
 	"killsound 20"
 	{
@@ -95,6 +106,7 @@
 		"de"		"{1} ist ernsthaft krank im Kopf"
 		"fr"		"{1} est un Foufou !!"
 		"pt"		"{1} estГЎ com uma DoenГ§a Vingativa!"
+		"ru"		"{1} впал в Ярость!"
 	}
 	"killsound 22"
 	{
@@ -103,6 +115,7 @@
 		"de"		"{1} ist beeindruckend"
 		"fr"		"{1} est impressionnant !!"
 		"pt"		"{1} Г© Impressionante!"
+		"ru"		"{1} Потрясающий!"
 	}
 	"killsound 24"
 	{
@@ -111,6 +124,7 @@
 		"de"		"Irsinniger Kill von {1}"
 		"fr"		"{1} est mort de rire !!"
 		"pt"		"GenocГ­dio Absurdo por {1}"
+		"ru"		"{1} порубал в мясо"
 	}
 	"killsound 26"
 	{
@@ -119,6 +133,7 @@
 		"de"		"Heilige Schei?ѓe, {1} ist wahnsinnig"
 		"fr"		"Incroyable, {1} ;quelle mauvais garГ§on"
 		"pt"		"Puta Merda, {1} Г© muito foda!
+		"ru"		"{1} устроил бойню!"
 	}
 	"combo 2"
 	{
@@ -127,6 +142,7 @@
 		"de"		"{1} hat gerade zwei auf einmal niedergestreckt"
 		"fr"		"{1} vien dans tuГ© 2 de suite"
 		"pt"		"{1} acabou de conseguir uma Morte Dupla"
+		"ru"		"{1} убил двоих!"
 	}
 	"combo 3"
 	{
@@ -134,7 +150,8 @@
 		"en"		"{1} just pulled off a Triple Kill"
 		"de"		"{1} hat gerade drei auf einem niedergestreckt"
 		"fr"		"{1} vien dans tuГ© 3 de suite"
-		"pt"		"{1} acabou de conseguir uma Morte Tripla" 
+		"pt"		"{1} acabou de conseguir uma Morte Tripla"
+		"ru"		"{1} прикончил троих!"
 	}
 	"combo 4"
 	{
@@ -143,6 +160,7 @@
 		"de"		"{1} hat gerade vier auf einmal niedergestreckt"
 		"fr"		"{1} vien de faire un Quadruple Combo"
 		"pt"		"{1} acabou de conseguir uma Morte QuГЎdrupla"
+		"ru"		"{1} убил четверых!"
 	}
 	"combo 5"
 	{
@@ -151,6 +169,7 @@
 		"de"		"{1} ist eine Comboschlampe"
 		"fr"		"{1} est une putain du combo"
 		"pt"		"{1} Г© o Mestre dos Combos!"
+		"ru"		"{1} устроил побоище!"
 	} 
 	"first blood"
 	{
@@ -159,6 +178,7 @@
 		"de"		"Erstes Blut vergossen"
 		"fr"		"{1} a fait la 1ere victime!"
 		"pt"		"{1} conseguiu o Primeiro Sangue!"
+		"ru"		"{1} пролил первую кровь!"
 	}	
 	"grenade"
 	{
@@ -167,6 +187,7 @@
 		"de"		"{1} sprengte {2} mit einer Granate"
 		"fr"		"{1} explose {2} avec une grenade"
 		"pt"		"{1} detonou {2} com uma granada"
+		"ru"		"{1} подорвал {2} на гранате!"
 	}
 	"selfkill"
 	{
@@ -175,6 +196,7 @@
 		"de"		"{1} hat sich selbst erniedrigt"
 		"fr"		"{1} S’humilie lui-mГЄme"
 		"pt"		"{1} se humilhou"
+		"ru"		"{1} убил себя!"
 	}
 	"round play"
 	{
@@ -182,6 +204,7 @@
 		"de"		"Spielt"
 		"fr"		"PrГ©pare toi !!"
 		"pt"		"Bom Jogo!"
+		"ru"		"Бой!"
 	}
 	"knife"
 	{
@@ -190,6 +213,7 @@
 		"de"		"{2} wurde durch einen Messerkill von {1} blo?ѓgestellt"
 		"fr"		"{2} dГ©coupГ© par {1}"
 		"pt"		"{2} foi humilhado com uma faca por {1}"
+		"pt"		"{2} был унижен {1}"
 	}
 	"teamkill"
 	{
@@ -198,6 +222,7 @@
 		"de"		"{1} hat gerade seinen Teamkamerad {2} niedergestreckt"
 		"fr"		"{1} a tuГ© son pote {2}"
 		"pt"		"{1} acabou de matar o amigo {2}"
+		"pt"		"{1} убил товарища по команде {2}"
 	}
 	"announce message"
 	{
@@ -205,6 +230,7 @@
 		"de"		"Tippe !quake oder /quake um deine Quake Sounds einzustellen"
 		"fr"		"Tapez !quake ou /quake Pour enregistrer vos prГ©fГ©rences"
 		"pt"		"Digite !quake ou /quake para configurar Sons Quake"
+		"pt"		"Скажите !quake или /quake, чтобы настроить звуки Quake"
 	}
 	"quake menu"
 	{
@@ -212,6 +238,7 @@
 		"de"		"Quake Menue"
 		"fr"		"Menu Quake"
 		"pt"		"Menu Quake"
+		"ru"		"Меню Quake"
 	}
 	"enable text"
 	{
@@ -219,6 +246,7 @@
 		"de"		"Text Anzeige aktivieren"
 		"fr"		"Utilisez L'Affichage Des Textes"
 		"pt"		"Ativar AnГєncios de Texto"
+		"ru"		"Включить отображение текста"
 	}
 	"disable text"
 	{
@@ -226,6 +254,7 @@
 		"de"		"Text Anzeige deaktivieren"
 		"fr"		"Enlevez L'Affichage Des Textes"
 		"pt"		"Desativar AnГєncios de Texto"
+		"ru"		"Отключить отображение текста"
 	}
 	"no quake sounds"
 	{
@@ -233,6 +262,7 @@
 		"de"		"Keine Quake Sounds"
 		"fr"		"Aucun sons Quake"
 		"pt"		"Sem Sons Quake"
+		"ru"		"Без звуков Quake"
 	}
 	"standard"
 	{
@@ -240,6 +270,7 @@
 		"de"		"Standard Sounds"
 		"fr"		"Voix Standard"
 		"pt"		"Sons Masculinos"
+		"ru"		"Стандартные звуки"
 	}
 	"female"
 	{
@@ -247,5 +278,6 @@
 		"de"		"Weibliche Sounds"
 		"fr"		"Voix de Femme"
 		"pt"		"Sons Femininos"
+		"ru"		"Женские звуки"
 	}
 }
